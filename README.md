@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-<img src="/previews/PhoneBook.gif"/>
+<img src="/previews/PhoneBook.gif "width="800">
 </p>
