@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-<img src="/previews/PhoneBook.png"  width="35">
+<img src="/previews/PhoneBook.png"  width="800">
 </p>
 
 <p align="center">
