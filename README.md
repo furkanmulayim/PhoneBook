@@ -6,7 +6,7 @@
 
 <h3 align="center"> 
   
- **Coroutines -- Room  -- LiveData -- Navigation -- Bottom Sheet Nav -- Bottom Menu**
+ **SQLite -- Coroutines -- Room  -- LiveData -- Navigation -- Bottom Sheet Nav -- Bottom Menu**
   
 </h3>
 
